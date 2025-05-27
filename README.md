@@ -37,12 +37,12 @@ Arduino Leonardo, fios, 10 botões, 2 joysticks
 
 ## Integrantes do Grupo 20:
 
-•Arthur - amm4@cesar.school
-•Ian - lfcvd@cesar.school
-•Isabelle - ltab@cesar.school
-•João-pedro - jpfd@cesar.school
-•Luiz - lfsg@cesar.school
-•Mickael - meis@cesar.school
-•Natthalia - nadr@cesar.school
-•Sarah - segms@cesar.school
-•Vinicius - vpm@cesar.school
+-Arthur - amm4@cesar.school
+-Ian - lfcvd@cesar.school
+-Isabelle - ltab@cesar.school
+-João-pedro - jpfd@cesar.school
+-Luiz - lfsg@cesar.school
+-Mickael - meis@cesar.school
+-Natthalia - nadr@cesar.school
+-Sarah - segms@cesar.school
+-Vinicius - vpm@cesar.school
