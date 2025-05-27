@@ -33,7 +33,7 @@ Arduino Leonardo, fios, 10 botões, 2 joysticks
 
 6. **Teste o controle**  
    O Arduino funcionará como joystick USB.  
-   É preciso mapear os botões no emulador de controle Xbox 360
+   É preciso mapear os botões no emulador de controle Xbox 360.  
    Teste usando algum jogo compatível com controle na Steam
 
 ## Integrantes do Grupo 20:
