@@ -1,7 +1,7 @@
 
 #include <Joystick.h> // Precisa dessa biblioteca para funcionar
 
-bool pressionado; // Se o botão do joystick tá pressinado ou não
+bool pressionado; // Se o botão do joystick tá pressionado ou não
 #define Joystick_VRX2 A2 // Setando os pinos abaixo cada um com sua função
 #define Joystick_VRY2 A3
 #define Joystick_VRX  A0 
