@@ -2,21 +2,21 @@
 #include <Joystick.h> // Precisa dessa biblioteca para funcionar
 
 bool pressionado; // Se o botão do joystick tá pressionado ou não
-#define Joystick_VRX2 A2 // Setando os pinos abaixo cada um com sua função
-#define Joystick_VRY2 A3
-#define Joystick_VRX  A0 
-#define Joystick_VRY  A1
+#define Joystick_VRX2 A3 // Setando os pinos abaixo cada um com sua função
+#define Joystick_VRY2 A2
+#define Joystick_VRX  A5
+#define Joystick_VRY  A4
 #define Joystick_SW   3
-#define Button_B      13
-#define Button_Y      2
-#define Button_A      11
-#define Button_X      10
-#define Button_left   7
-#define Button_up     6
-#define Button_down   5
-#define Button_right  4
-#define Button_Start  9
-#define Button_Select 8
+#define Button_B      4
+#define Button_Y      6
+#define Button_A      5
+#define Button_X      7
+#define Button_left   13
+#define Button_up     12
+#define Button_down   10
+#define Button_right  11
+#define Button_Start  8
+#define Button_Select 9
 
 // Criando um objeto do tipo Joystick, onde simulará um gamepad
 Joystick_ Joystick(JOYSTICK_DEFAULT_REPORT_ID,JOYSTICK_TYPE_GAMEPAD, 
