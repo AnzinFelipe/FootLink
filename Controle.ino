@@ -1,4 +1,3 @@
-
 #include <Joystick.h> // Precisa dessa biblioteca para funcionar
 
 bool pressionado; // Se o botão do joystick tá pressionado ou não
